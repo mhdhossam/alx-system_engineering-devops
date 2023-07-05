@@ -3,4 +3,4 @@
 # Create the school.mgc file
 echo "0 string school school data file" > school.mgc
 
-!:mime Schoolfile --mime-type -m school.mgc *
+!:mime Schoolfile --mime-type -m school.mgc 

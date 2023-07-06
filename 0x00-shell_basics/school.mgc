@@ -1,6 +1,2 @@
-#!/bin/bash
-
-# Create the school.mgc file
-echo "0 string school school data file" > school.mgc
-
-!:mime Schoolfile --mime-type -m school.mgc 
+0 string SCHOOL school data file
+!:mime school
